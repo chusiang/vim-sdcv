@@ -1,8 +1,10 @@
 # vim-sdcv
 
-The plugin is fork from [Yunt](http://my.opera.com/yunt/blog/show.dml/304842), and it can search word at Vim, but it`s need sdcv and dictionaries.
+The plugin is fork from [Yunt](http://my.opera.com/yunt/blog/show.dml/304842), and it can search word in Vim, but it`s need sdcv and dictionaries. [(more)](http://note.drx.tw/2013/10/working-on-gnu-linux-16-vim-sdcv.html)
 
 ![sdcv at Vim](https://lh5.googleusercontent.com/-k6eRB1pQTd0/UkyAE9o5hVI/AAAAAAAAV1o/4R8nOtWba1k/s640/2013-10-03-sdcv-vim.png)
+
+▲ use sdcv in Vim.
 
 ## Installation
 
